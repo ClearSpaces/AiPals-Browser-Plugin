@@ -1,6 +1,7 @@
 # AiPals Browser Plugin
 ## Overview:
 
+## I'm working on it
 A brief description of the AiPals Browser plugin, its purpose, and its main features.
 
 Features:
